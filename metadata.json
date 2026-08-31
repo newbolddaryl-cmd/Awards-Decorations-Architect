@@ -1,0 +1,6 @@
+{
+  "name": "Awards Architect",
+  "description": "Transform raw notes into board-ready Air Force, WMA, and Joint award and decoration packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
